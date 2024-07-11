@@ -1,0 +1,1 @@
+hoje no dia 11/07/2024 fizemos um trabalho no scratch no qual o jogo precisaria de jogador,sistema de movimento,inimigo,vidas e pontuação
