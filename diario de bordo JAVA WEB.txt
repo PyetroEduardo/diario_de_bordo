@@ -1,1 +1,4 @@
-hoje no dia 11/07/2024 fizemos um trabalho no scratch no qual o jogo precisaria de jogador,sistema de movimento,inimigo,vidas e pontuação
+hoje no dia 11/07/2024 fizemos um trabalho no scratch no qual fariamos um  jogo no scratch e precisaria de jogador,sistema de movimento,inimigo,vidas e pontuação
+
+hoje no dia 01/08/2024 fizemos uma atividade na api de eventos do inteli e criamos uma control no inteligj e o professor explicou um pouco sobre o controll e no final da aula
+juntos com o professor arrumamos algumas falhas que tinha nos códigos
