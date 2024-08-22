@@ -2,3 +2,9 @@ hoje no dia 11/07/2024 fizemos um trabalho no scratch no qual fariamos um  jogo 
 
 hoje no dia 01/08/2024 fizemos uma atividade na api de eventos do inteli e criamos uma control no inteligj e o professor explicou um pouco sobre o controll e no final da aula
 juntos com o professor arrumamos algumas falhas que tinha nos códigos
+
+hoje no dia 8/08/2024  fomos no laboratório de informática e vimos um robo, um cara explicou como funcionava o robo e explicou a formatação
+
+no dia 15/08/2024 vamos clonar os repósitorios:eventos_api e fazer a  atividade de criar classe,controller e repository para as entidades cliente e usuario
+
+no dia 22/08/2024 vamos completar as outras classes e finalizar o trabalho,s ao final eviar as alteraçãoes para o git
